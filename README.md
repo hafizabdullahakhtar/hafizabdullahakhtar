@@ -1,5 +1,5 @@
 <a href="http://abdullahakhtar.com/">
-  <img src="https://drive.google.com/uc?export=view&id=1E0AxLvJmVrN-7v3e2Yvo8OqWPYQVMVVg" alt="MasterHead">
+  <img src="https://drive.google.com/uc?export=view&id=1qwsBtCLOcAaG6K9LfoVBU8mgBN73TJBT" alt="MasterHead">
 </a>
 
 

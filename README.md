@@ -21,18 +21,19 @@
 
 - ⚡ Fun fact **I love cats!**
 <br>
-### From: 07 March 2023 - To: 20 August 2024
 
-**Total Time:** 846 hrs 3 mins
 
 ```plaintext
-TypeScript       494 hrs 25 mins ████████████████▌░░░░░░░░░░░░░░  58.19 %
-JavaScript       272 hrs 10 mins █████████▌░░░░░░░░░░░░░░░░░░░░░  32.03 %
-CSS              37 hrs 47 mins  ██▍░░░░░░░░░░░░░░░░░░░░░░░░░░░░  04.45 %
-PHP              7 hrs 21 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  00.87 %
-HTML             7 hrs 5 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  00.84 %
+Flutter               ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱
+MERN                  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱
+```
+```plaintext
+Web Development       ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱
+Mobile                ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱
+```
 
 <br>
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hafiz-abdullah-akhtar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hafiz-abdullah-akhtar" height="30" width="40" /></a>
